@@ -1,2 +1,2 @@
-# ayushkumar
+# Library Management
 Libraray Management System
